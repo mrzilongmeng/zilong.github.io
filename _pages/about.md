@@ -44,7 +44,7 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
-* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East Univeristy of Political Science and Law). 
+* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East China Univeristy of Political Science and Law). 
 </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
