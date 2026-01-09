@@ -19,12 +19,12 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
-  1. Urban Governance
+  1. Urban Governance <br>
   Focus on digital transformation and environmental governance, with particular attention to the political and social impacts of digital government development and data-driven governance. Research examines technology-enabled transformations in environmental governance and policy implementation processes.
 </p>
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
-  2.Emergency Management
+  2. Emergency Management <br>
   Emphasize the development and application of integrated governance theories in urban risk governance contexts, with a focus on mechanisms of intergovernmental and cross-sectoral collaboration in urban emergency management.
 </p>
 
