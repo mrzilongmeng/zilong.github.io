@@ -30,7 +30,7 @@ redirect_from:
 
 
 <p style="margin-bottom: 3em>
-News<br>
+News
 </p>
   
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
