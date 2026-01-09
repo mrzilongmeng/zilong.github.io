@@ -11,7 +11,7 @@ redirect_from:
   <br> <!-- 距离上方标题一行的距离 -->
   
 <p style="margin-bottom: 0.5em;">
-  I am a phd candidate in emergency management at Beihang University (BUAA).
+  I am a phd candidate in emergency management at Beihang University (BUAA), Supervised by Prof. Ren Bingqiang.
 </p>
 
 <p style="margin-bottom: 0.5em;">
@@ -44,7 +44,7 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
-* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East China Univeristy of Political Science and Law). 
+* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East China Univeristy of Political Science and Law), supervised by Prof. Li Hanqing. 
 </p>
 
 <p style="margin-bottom: 0.25em; padding-left: 20px;">
