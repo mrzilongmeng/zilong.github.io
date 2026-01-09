@@ -29,8 +29,7 @@ redirect_from:
 </p>
 
 <br> <!-- 距离上方标题一行的距离 -->
-<p style="margin-bottom: 0.5em>
-<span style="color:red; font-weight:bold; font-size:1.2em;">News</span> <br>
+<span style="color:blue; font-weight:bold; font-size:1.2em;">News</span> <br>
 </p>
   
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
