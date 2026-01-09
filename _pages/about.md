@@ -31,12 +31,24 @@ redirect_from:
 <br> <!-- 距离上方标题一行的距离 -->
 <span style="color:blue; font-weight:bold; font-size:1.2em;">News</span> <br>
   
-<p style="margin-bottom: 0.5em; padding-left: 20px;">
-* [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! <br>
-* [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. <br>
-* [2025.10] Received the honor of "Three Good Student" at BUAA. <br>
-* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East Univeristy of Political Science and Law). <br>
-* [2022.09] I started my PhD at Beihang University. <br>
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! 
+  </p>
+
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2025.12] Successfully passed the pre-defense of the doctoral dissertation at BUAA. 
+</p>
+
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2025.10] Received the honor of "Three Good Student" at BUAA. 
+</p>
+
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2023.02] Received the honor of "Best Master Dissertation" from ECUPL (East Univeristy of Political Science and Law). 
+</p>
+
+<p style="margin-bottom: 0.25em; padding-left: 20px;">
+* [2022.09] I started my PhD at Beihang University. 
 </p>
 
 </div>
