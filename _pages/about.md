@@ -30,7 +30,6 @@ redirect_from:
 
 <br> <!-- 距离上方标题一行的距离 -->
 <span style="color:blue; font-weight:bold; font-size:1.2em;">News</span> <br>
-</p>
   
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
 * [2026.01] Top 5% Scholar 2025 in Public Administration selected by CNKI. Congratulations! <br>
