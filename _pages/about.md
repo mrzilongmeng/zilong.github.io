@@ -28,9 +28,9 @@ redirect_from:
   Emphasize the development and application of "integrated governance" theoritical framework in urban risk governance contexts, with a focus on mechanisms of intergovernmental and cross-sectoral collaboration in urban emergency management.
 </p>
 
+<br> <!-- 距离上方标题一行的距离 -->
 
-
-<p style="margin-bottom: 3em>
+<p style="margin-bottom: 0.5em>
 <span style="color:red; font-weight:bold; font-size:1.2em;">News</span> <br>
 </p>
   
