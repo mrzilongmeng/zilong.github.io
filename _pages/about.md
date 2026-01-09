@@ -19,11 +19,13 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
-  1. focuses on two key issues in megacity markets: urban digital transformation and environmental governance, and examines the political and social impacts of digital government development and smart governance, as well as the environmental governance reforms driven by digital technologies and their policy implementation processes.
+  1. Urban Governance
+  Focus on digital transformation and environmental governance, with particular attention to the political and social impacts of digital government development and data-driven governance. Research examines technology-enabled transformations in environmental governance and policy implementation processes.
 </p>
 
 <p style="margin-bottom: 0.5em; padding-left: 20px;">
-  2. focuses on the construction and elaboration of the theory of “integrated governance” and its application in the urban governance scene, and pays attention to the differentiated cooperation forms and practical logic of urban emergency.
+  2.Emergency Management
+  Emphasize the development and application of integrated governance theories in urban risk governance contexts, with a focus on mechanisms of intergovernmental and cross-sectoral collaboration in urban emergency management.
 </p>
 
 <p style="margin-bottom: 1em; padding-left: 20px;">
